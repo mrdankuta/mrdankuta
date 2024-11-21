@@ -1,6 +1,6 @@
 # Hi there! 👋 You're Welcome!
 ## I am Daniel Osarokutamwen
-A Cloud/DevOps Engineer
+A Software Engineer with a love for implementing the DevOps culture through Platform Engineering.
 
 <!--
 **mrdankuta/mrdankuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
