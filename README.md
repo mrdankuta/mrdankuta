@@ -1,8 +1,9 @@
-# Hi there! 👋 You're Welcome!
+# DevOps. Platform Engineering. Team Topologies.
+<!--
 ## I am Daniel Osarokutamwen
 A Software Engineer with a love for implementing the DevOps culture through Platform Engineering.
 
-<!--
+
 **mrdankuta/mrdankuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
